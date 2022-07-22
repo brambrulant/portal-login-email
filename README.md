@@ -2,7 +2,7 @@
 
 Small applescript that will copy the code to your clipboard and then deletes the email.
 
-#instructions
+# instructions
 
 Open copyCodeScript with Script Editor. Click file => export. Make sure Code Sign is set to "sign to run locally" 
 
